@@ -1,0 +1,6 @@
+{
+  "/not-found": "app/not-found.js",
+  "/(routes)/login/page": "app/(routes)/login/page.js",
+  "/(routes)/profile/page": "app/(routes)/profile/page.js",
+  "/(routes)/interest/page": "app/(routes)/interest/page.js"
+}
